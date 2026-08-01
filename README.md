@@ -1,14 +1,18 @@
+<p align="center">
+  <img src="./assets/system-loop.svg" width="100%" alt="An animated ASCII system routes a request through a queue, agent, state, and trace, then recovers from a failure through an explicit retry path.">
+</p>
+
 # Hi, I'm Ivan.
 
-### I like hard systems and calm production.
+**Staff Engineer and player-coach for backend platforms, distributed systems, production AI, and reliability.**
 
-I'm a Staff Engineer and player-coach working on backend platforms, distributed systems, production AI, and reliability.
+## No prompt can fix a decision the model should never own.
 
-I've led attribution services at 200k+ requests per second, cut AWS spend by roughly 30%, shipped LangGraph agents to production, and directly managed teams of up to 15 engineers. I still like being close to the code.
+I like hard systems and calm production. I've led attribution services at 200k+ requests per second, cut AWS spend by roughly 30%, shipped LangGraph agents to production, and directly managed teams of up to 15 engineers. I still like being close to the code.
 
 ## Things I care about
 
-- AI that knows when not to be AI
+- Clear boundaries between model output and human judgment
 - High-load systems with low-drama operations
 - Explicit state, observable behavior, and boring recovery paths
 - Helping engineers own bigger problems
@@ -19,14 +23,6 @@ I've led attribution services at 200k+ requests per second, cut AWS spend by rou
 **Move:** `Kafka` `RabbitMQ` `Celery` `Temporal`<br>
 **Store:** `PostgreSQL` `ClickHouse` `Redis`<br>
 **Run:** `AWS` `Terraform` `Docker` `Kubernetes`
-
-<details>
-<summary><code>ivan --opinion</code></summary>
-<br>
-
-Before I improve a prompt, I ask which part of the decision should not belong to a model at all.
-
-</details>
 
 ## Say hello
 
