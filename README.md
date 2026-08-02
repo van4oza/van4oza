@@ -1,14 +1,12 @@
-# Before the prompt, draw the line the model cannot cross.
+# No prompt can fix a decision the model should never own.
 
-## Hi, I'm Ivan.
+My 10+ years in software span platform and backend systems, full-stack products, DevOps and production operations, engineering management, and hands-on development.
 
-**Staff Engineer and player-coach for production AI, backend platforms, distributed systems, and reliability.**
+I adopted AI-assisted coding and LLM-powered product features early, so I have seen both what they do well and how confidently they can fail. Today I work across the full **AI-SDLC**, from problem framing and architecture through implementation, evaluation, delivery, and operations.
 
-I work across the full AI software development lifecycle (**AI-SDLC**): problem framing, specification, architecture, implementation, evaluation, delivery, and operations.
+I treat AI like any language, framework, or platform: a tool that needs a clear purpose and known limits. I use it where it earns its place and design around its failure modes. Decisions that require human judgment and accountability stay with people.
 
-I use models aggressively where they improve speed or quality. Models will be wrong. That is not an excuse: their behavior must be bounded, their output evaluated, their failures observable, and every consequential decision owned by a person. AI accelerates the work; it does not inherit accountability.
-
-I combine engineering management with hands-on development. I answer the *why* upfront, give teams enough context to understand the project, and turn that understanding into clear requirements and explicit guardrails. Engineers can then make good local decisions without guessing what the project is trying to achieve. I stay close enough to the code to know whether the plan works in practice.
+The same approach shapes how I lead. I answer the *why* before the *how*, turn intent into clear requirements and guardrails, and stay close enough to the code and operations to test the plan against reality. Teams get enough context to make sound decisions without guessing. Models get a defined job, not vague authority.
 
 ## Proven in production
 
