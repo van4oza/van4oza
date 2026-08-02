@@ -10,11 +10,12 @@ The same approach shapes how I lead. I answer the *why* before the *how*, turn i
 
 ## Proven in production
 
-- Led attribution services handling 200k+ requests per second
-- Reduced AWS spend by roughly 30%
-- Shipped LangGraph agents to production
-- Directly managed engineering teams of up to 15
-- Stayed close to the code as a Staff Engineer and player-coach
+- Directly managed up to 15 engineers across frontend, backend, and AI; owned hiring, coaching, delivery, and technical direction while remaining hands-on
+- Built and owned a production AI platform and shipped LangGraph agents with evals, CI gates, and trace-level observability
+- Led system design for core attribution services sustaining 200k+ requests per second under SLA
+- Cut AWS spend by roughly 30% through ARM migration, right-sizing, and workload tiering
+- Upgraded large Django monoliths and split them into smaller applications and services; untangled 200+ conflicting dependencies and added test coverage
+- Ran multi-region, multi-AZ production platforms and owned zero-downtime releases, observability, on-call, and SLOs
 
 ## Toolbox
 
