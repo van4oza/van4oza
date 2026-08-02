@@ -1,23 +1,24 @@
-<p align="center">
-  <img src="./assets/system-loop.svg" width="100%" alt="An animated ASCII system routes a request through a queue, agent, state, and trace, then recovers from a failure through an explicit retry path.">
-</p>
+# Before the prompt, draw the line the model cannot cross.
 
-# Hi, I'm Ivan.
+## Hi, I'm Ivan.
 
-**Staff Engineer and player-coach for backend platforms, distributed systems, production AI, and reliability.**
+**Staff Engineer and player-coach for production AI, backend platforms, distributed systems, and reliability.**
 
-## No prompt can fix a decision the model should never own.
+I work across the full AI software development lifecycle (**AI-SDLC**): problem framing, specification, architecture, implementation, evaluation, delivery, and operations.
 
-I like hard systems and calm production. I've led attribution services at 200k+ requests per second, cut AWS spend by roughly 30%, shipped LangGraph agents to production, and directly managed teams of up to 15 engineers. I still like being close to the code.
+I use models aggressively where they improve speed or quality. Models will be wrong. That is not an excuse: their behavior must be bounded, their output evaluated, their failures observable, and every consequential decision owned by a person. AI accelerates the work; it does not inherit accountability.
 
-## Things I care about
+I combine engineering management with hands-on development. I answer the *why* upfront, give teams enough context to understand the project, and turn that understanding into clear requirements and explicit guardrails. Engineers can then make good local decisions without guessing what the project is trying to achieve. I stay close enough to the code to know whether the plan works in practice.
 
-- Clear boundaries between model output and human judgment
-- High-load systems with low-drama operations
-- Explicit state, observable behavior, and boring recovery paths
-- Helping engineers own bigger problems
+## Proven in production
 
-## The useful part of the toolbox
+- Led attribution services handling 200k+ requests per second
+- Reduced AWS spend by roughly 30%
+- Shipped LangGraph agents to production
+- Directly managed engineering teams of up to 15
+- Stayed close to the code as a Staff Engineer and player-coach
+
+## Toolbox
 
 **Build:** `Python` `Django` `FastAPI` `LangGraph`<br>
 **Move:** `Kafka` `RabbitMQ` `Celery` `Temporal`<br>
@@ -26,8 +27,8 @@ I like hard systems and calm production. I've led attribution services at 200k+ 
 
 ## Say hello
 
-If you're building something distributed, AI-assisted, high-scale, or slightly haunted, I'd like to hear about it.
+If you are building something distributed, AI-assisted, high-scale, or slightly haunted, I would like to hear about it.
 
-I'm based in Spain (CET) and open to remote Staff Engineer roles worldwide, including teams with US-time-zone overlap.
+Based in Spain (CET). Open to remote Staff Engineer roles worldwide, including teams with US time zone overlap.
 
 [Email](mailto:chezhik@gmail.com) · [LinkedIn](https://www.linkedin.com/in/ivan-pogrebkov/)
